@@ -2,7 +2,7 @@
 A **proof of concept** mod to make non-cube shapes.  
 Expect bugs.
 
-By default registers a few nodes from existing default nodes.  
+Converts all blocks into hexagons.
 Nodes are meshes, so expect frame drops with larger quantities.
 
 Inspiration:  
